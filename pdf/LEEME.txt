@@ -1,0 +1,14 @@
+📂 CARPETA PARA PRESENTACIONES PDF DEL DEMO DAY
+==============================================
+
+Guarda en esta carpeta los archivos PDF de las presentaciones de cada uno de los 6 proyectos.
+
+Para que se enlacen automáticamente con la plataforma, nómbralos así:
+- proyecto_1.pdf  (Para ACTIVECREDITS UEB)
+- proyecto_2.pdf  (Para CALMMIND U)
+- proyecto_3.pdf  (Para MINDCARE U)
+- proyecto_4.pdf  (Para FLEXIWORK U)
+- proyecto_5.pdf  (Para FRESHLY)
+- proyecto_6.pdf  (Para CLIMODA)
+
+Si utilizas otros nombres, recuerda actualizar las rutas correspondientes en el archivo `src/data/content.ts`.
